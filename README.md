@@ -42,8 +42,8 @@ Ensure you have the following installed:
     Start by cloning the project repository to your local machine:
 
     ```bash
-    git clone https://github.com/Pantkartik/Cypher_Chat_version_2.git
-    cd Cypher_Chat_version_2
+    git clone https://github.com/Pantkartik/secure_Chat_version_2.git
+    cd secure_Chat_version_2
     ```
 
 2.  **Install Backend Dependencies:**
