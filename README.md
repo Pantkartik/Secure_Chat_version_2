@@ -12,7 +12,7 @@ secure Chat v2 is a modern, real-time chat application designed for secure and p
 ---
 
 ![secure Chat Application Preview](/preview_example.png)
-_A glimpse of the Cypher Chat user interface._
+_A glimpse of the secureChat user interface._
 
 
 ## ✨ Features
@@ -26,7 +26,7 @@ _A glimpse of the Cypher Chat user interface._
 
 ## ⚙️ Installation Guide
 
-Follow these steps to get Cypher Chat v2 up and running on your local machine.
+Follow these steps to get secureChat v2 up and running on your local machine.
 
 ### Prerequisites
 
@@ -93,7 +93,7 @@ Ensure you have the following installed:
     ```
     The frontend application will usually be accessible at `http://localhost:5173` (or another port).
 
-Your Cypher Chat v2 application should now be running!
+Your secureChat v2 application should now be running!
 
 
 ## 🚀 Usage Examples
@@ -121,7 +121,7 @@ socket.on('connect', () => {
   // Emit a message
   socket.emit('sendMessage', {
     sender: 'Pantkartik',
-    message: 'Hello, Cypher Chat!',
+    message: 'Hello, secureChat!',
     timestamp: new Date().toISOString()
   });
 });
@@ -163,7 +163,7 @@ secure Chat v2 is continuously evolving. Here's a glimpse of what's planned:
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions to Cypher Chat v2! To ensure a smooth collaboration process, please follow these guidelines:
+We welcome contributions to secureChat v2! To ensure a smooth collaboration process, please follow these guidelines:
 
 ### Code Style
 *   Adhere to the [ESLint configuration](https://eslint.org/) and [Prettier formatting](https://prettier.io/) used in the project.
